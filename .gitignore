@@ -99,3 +99,6 @@ Temporary/Starship_x64_Release/Starship.tlog/link.read.1.tlog
 Temporary/Starship_x64_Release/Starship_Release_x64.exe
 Temporary/Starship_x64_Release/Starship_Release_x64.iobj
 Temporary/Starship_x64_Release/Starship_Release_x64.pdb
+.vs/Starship/v17/Browse.VC.db
+/.vs/Starship/v17
+*.db
