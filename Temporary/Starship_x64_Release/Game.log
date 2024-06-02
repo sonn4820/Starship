@@ -1,0 +1,23 @@
+﻿  App.cpp
+  Asteroid.cpp
+  Beetle.cpp
+  Boss.cpp
+  Bullet.cpp
+  Covid.cpp
+  CovidBullet.cpp
+  Debris.cpp
+  Entity.cpp
+  Game.cpp
+  GameCommon.cpp
+  Main_Windows.cpp
+  PlayerShip.cpp
+  SimpleTriangleFont.cpp
+  Wasp.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 2112 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> D:\p4\Personal\SD\Starship\Temporary\Starship_x64_Release\Starship_Release_x64.exe
+  Copying Starship_Release_x64.exe to D:\p4\Personal\SD\Starship\Run...
+  D:\p4\Personal\SD\Starship\Temporary\Starship_x64_Release\Starship_Release_x64.exe -> D:\p4\Personal\SD\Starship\Run\Starship_Release_x64.exe
+  1 File(s) copied

@@ -1,0 +1,50 @@
+﻿  AudioSystem.cpp
+  Clock.cpp
+  DevConsole.cpp
+  EngineCommon.cpp
+  EventSystem.cpp
+  FileUtils.cpp
+  HeatMaps.cpp
+  Image.cpp
+  NamedStrings.cpp
+  RaycastUtils.cpp
+  Rgba8.cpp
+  VertexUtils.cpp
+  Vertex_PCU.cpp
+  XmlUtils.cpp
+  AnalogJoystick.cpp
+  InputSystem.cpp
+  XboxController.cpp
+  AABB2.cpp
+  AABB3.cpp
+  Capsule2.cpp
+  Generating Code...
+  Compiling...
+  EulerAngles.cpp
+  IntVec2.cpp
+  LineSegment2.cpp
+  Mat44.cpp
+  MathUtils.cpp
+  OBB2.cpp
+  RandomNumberGenerator.cpp
+  Spline.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  BitmapFont.cpp
+  Camera.cpp
+  ConstantBuffer.cpp
+  DebugRender.cpp
+  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  SpriteAnimDefinition.cpp
+  SpriteDefinition.cpp
+  Generating Code...
+  Compiling...
+  SpriteSheet.cpp
+  Texture.cpp
+  VertexBuffer.cpp
+  Window.cpp
+  Generating Code...
+  Engine.vcxproj -> D:\p4\Personal\SD\Starship\Temporary\Engine_x64_Debug\Engine.lib

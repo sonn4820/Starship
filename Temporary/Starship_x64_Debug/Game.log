@@ -1,0 +1,20 @@
+﻿  App.cpp
+  Asteroid.cpp
+  Beetle.cpp
+  Boss.cpp
+  Bullet.cpp
+  Covid.cpp
+  CovidBullet.cpp
+  Debris.cpp
+  Entity.cpp
+  Game.cpp
+  GameCommon.cpp
+  Main_Windows.cpp
+  PlayerShip.cpp
+  SimpleTriangleFont.cpp
+  Wasp.cpp
+  Generating Code...
+  Game.vcxproj -> D:\p4\Personal\SD\Starship\Temporary\Starship_x64_Debug\Starship_Debug_x64.exe
+  Copying Starship_Debug_x64.exe to D:\p4\Personal\SD\Starship\Run...
+  D:\p4\Personal\SD\Starship\Temporary\Starship_x64_Debug\Starship_Debug_x64.exe -> D:\p4\Personal\SD\Starship\Run\Starship_Debug_x64.exe
+  1 File(s) copied
