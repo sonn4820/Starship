@@ -102,3 +102,5 @@ Temporary/Starship_x64_Release/Starship_Release_x64.pdb
 .vs/Starship/v17/Browse.VC.db
 /.vs/Starship/v17
 *.db
+/Temporary
+/Temporary
