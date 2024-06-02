@@ -28,7 +28,7 @@ Game Features:
 
 Known issues:
 
-	- There is an rare bug where the player's ship can get stuck accelerating parallel to the edge of the screen. The ship ends up in an unresponsive stuck state along the screen edge.	The only workaround right now is for the player to rotate their ship to face back inside the playable area, then apply thrust again to push away from the edge. 
+	- There is an rare bug where the player's ship can get stuck accelerating parallel to the edge of the screen. The ship ends up in an unresponsive stuck state along the screen edge. The only workaround right now is for the player to rotate their ship to face back inside the playable area, then apply thrust again to push away from the edge. 
 
 Deep Learning:
 
