@@ -405,7 +405,7 @@ void Game::RenderOpenCutScene() const
 
 	int instruction = static_cast<int>(RangeMap(m_secondIntoMode, 9.2f, 10.5f, 0.f, 50.f));
 	std::vector<Vertex_PCU> instructionVerts;
-	AddVertsForTextTriangles2D(instructionVerts, "How To Play Controller\n\nLeft JoyStick to move\nA to shoot\nStart to respawn\n\n\n\n\nHow To Play Keyboard\n\nE to thrust forward\nS to turn left\nF to turn right\nSpace to shoot\nN to repsawn", Vec2(650.f, 580.f), 20.f, Rgba8(255, 255, 255, 255), .56f, false, 0.2f, instruction);
+	AddVertsForTextTriangles2D(instructionVerts, "How To Play Controller\n\nLeft JoyStick to move\nA to shoot\nStart to respawn\n\n\n\n\nHow To Play Keyboard\n\nW to thrust forward\nA to turn left\nD to turn right\nSpace to shoot\nN to repsawn", Vec2(650.f, 580.f), 20.f, Rgba8(255, 255, 255, 255), .56f, false, 0.2f, instruction);
 	g_theRenderer->DrawVertexArray((int)instructionVerts.size(), instructionVerts.data());
 
 	int gogogo = static_cast<int>(RangeMap(m_secondIntoMode, 22.f, 23.f, 0.f, 50.f));
