@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Gameplay">
+      <UniqueIdentifier>{548a8f28-1bab-43a9-b99a-20a9ddfcce6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Enemy">
+      <UniqueIdentifier>{c1ac7fd9-1f90-4148-8338-833c7feca1ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Player">
+      <UniqueIdentifier>{956bc272-261b-4b6c-9c4a-c05e42167e2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Entity">
+      <UniqueIdentifier>{748106cf-7f9c-4026-9270-dfd1b4ee2585}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Game System">
+      <UniqueIdentifier>{d5dc1590-be54-408e-ad30-645e77a30f6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Misc">
+      <UniqueIdentifier>{fbf456cb-8dca-4f02-8c1a-b8b066ebbc48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Windows.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Asteroid.cpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Beetle.cpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Wasp.cpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Gameplay\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerShip.cpp">
+      <Filter>Gameplay\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Debris.cpp">
+      <Filter>Gameplay\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Gameplay\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Gameplay\Game System</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleTriangleFont.cpp">
+      <Filter>Gameplay\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCommon.cpp">
+      <Filter>Gameplay\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Covid.cpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="CovidBullet.cpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Asteroid.hpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Beetle.hpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Wasp.hpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.hpp">
+      <Filter>Gameplay\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerShip.hpp">
+      <Filter>Gameplay\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Debris.hpp">
+      <Filter>Gameplay\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.hpp">
+      <Filter>Gameplay\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
+      <Filter>Gameplay\Game System</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineBuildPreferences.hpp">
+      <Filter>Gameplay\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleTriangleFont.hpp">
+      <Filter>Gameplay\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCommon.hpp">
+      <Filter>Gameplay\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameExtern.hpp">
+      <Filter>Gameplay\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Covid.hpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="CovidBullet.hpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.hpp">
+      <Filter>Gameplay\Enemy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
